@@ -1,13 +1,29 @@
-# React + Vite
+# 🔑 MoneyExpress
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📖 Project Overview
+🌍A stylish money transfer app with vibrant gradients and real-time currency conversion, including TRY, enhanced by a polished glassmorphism UI. Effortlessly calculates fees and net amounts for a seamless, professional user experience.
 
-Currently, two official plugins are available:
+## 📸 Screenshots 📸
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![para1.png](https://github.com/Fiartaks/70-React-Para-Transferi/blob/main/public/para1.png)
 
-## Expanding the ESLint configuration
+![para2.png](https://github.com/Fiartaks/70-React-Para-Transferi/blob/main/public/para2.png)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# 70-React-Para-Transferi
+
+
+
+## 💻 What’s in the Project?
+- 🌟 **Main Component (App.jsx)**: Renders a sleek money transfer form and confirmation screen with real-time currency conversion and fee calculations.
+- 📍 **Data (TransferForm.jsx):**:Handles user input for recipient name, IBAN, country (including TRY), and amount, with dynamic validation and fee processing.
+
+
+## 🛠️ What Has Been Done in the Project?
+- 🔄 Integrated real-time currency conversion using exchangerate-api.com, supporting EUR, GBP, USD, and TRY with dynamic fee calculations (5 USD fixed + 1% commission).
+- 🎨 Designed a modern UI with Poppins font, vibrant gradient backgrounds, glassmorphism effects, and smooth animations for a professional user experience. 
+
+## 📦 Libraries
+- 📘 React  
+- 🚦 React Router DOM
+
+
+
