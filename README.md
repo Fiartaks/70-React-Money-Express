@@ -9,6 +9,7 @@
 
 ![para2.png](https://github.com/Fiartaks/70-React-Para-Transferi/blob/main/public/para2.png)
 
+![para2.png](https://github.com/Fiartaks/70-React-Money-Express/blob/main/public/para3.gif)
 
 
 
