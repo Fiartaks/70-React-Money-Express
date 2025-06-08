@@ -13,22 +13,17 @@
 
 
 ## 💻 What’s in the Project?
-- 🌟 **Main Component (App.js)**: Renders the interactive map, filter dropdowns, and a nearest point section with a custom logo.  
-- 📍 **Data (points.js):**: Contains 10 payment points with details like name, city, district, type, coordinates, and hours. 
-- 🗺️ **MapBounds Component**: Centers the map on filtered payment points using Leaflet’s fitBounds method.
-- 📏 **Distance Calculation**: Contains the form fields for IBAN payment  and handles form submission using Formik.  
+- 🌟 **Main Component (App.jsx)**: Renders a sleek money transfer form and confirmation screen with real-time currency conversion and fee calculations.
+- 📍 **Data (TransferForm.jsx):**:Handles user input for recipient name, IBAN, country (including TRY), and amount, with dynamic validation and fee processing.
 
 
 ## 🛠️ What Has Been Done in the Project?
-- 🔄 Added dynamic filtering by city, district, and type with automatically populated dropdowns.
-- 🎨 Designed a vibrant UI with Poppins font, a logo in the nearest point section, and bold typography. 
-- 📍 Integrated Leaflet for an interactive map with markers, popups, and dynamic centering.
-- 📏 Implemented real-time distance calculations to the user’s location, shown in popups and the nearest point section.
+- 🔄 Integrated real-time currency conversion using exchangerate-api.com, supporting EUR, GBP, USD, and TRY with dynamic fee calculations (5 USD fixed + 1% commission).
+- 🎨 Designed a modern UI with Poppins font, vibrant gradient backgrounds, glassmorphism effects, and smooth animations for a professional user experience. 
 
 ## 📦 Libraries
 - 📘 React  
-- 🗺️ React-Leaflet 
-- 📍 Leaflet
-- 📏 Geolib
+- 🚦 React Router DOM
+
 
 
