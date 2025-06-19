@@ -15,7 +15,7 @@
 
 ## 💻 What’s in the Project?
 - 🌟 **Main Component (App.jsx)**: Renders a sleek money transfer form and confirmation screen with real-time currency conversion and fee calculations.
-- 📍 **Data (TransferForm.jsx):**:Handles user input for recipient name, IBAN, country (including TRY), and amount, with dynamic validation and fee processing.
+- 📍 **Data (TransferForm.jsx):**: Handles user input for recipient name, IBAN, country (including TRY), and amount, with dynamic validation and fee processing.
 
 
 ## 🛠️ What Has Been Done in the Project?
@@ -23,8 +23,9 @@
 - 🎨 Designed a modern UI with Poppins font, vibrant gradient backgrounds, glassmorphism effects, and smooth animations for a professional user experience. 
 
 ## 📦 Libraries
-- 📘 React  
-- 🚦 React Router DOM
+- 📘 React
+- 🔄  Axios
+- 🚦  React Router DOM
 
 
 
